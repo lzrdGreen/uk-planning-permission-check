@@ -63,3 +63,46 @@ This script could be extended to:
 * Load rules from external data sources (e.g., CSV, JSON, YAML) for easier configuration and updates.
 * Provide more context-specific information based on location or other parameters (though this would significantly increase complexity).
 * Be integrated into a larger application or web service via API.
+
+## Real-World Planning Permission (Key Considerations)
+
+Please note that the rules implemented in this script are a simplification. In reality, UK planning permission for fences, gates, and walls is governed by factors such as (based on a Perplexity search):
+
+* **Height Restrictions:** Planning permission is generally required if the structure exceeds 1 metre in height when adjacent to a highway or footpath, or 2 metres in other locations.
+* **Listed Buildings and Conservation Areas:** Planning permission is usually required for any fence, gate, or wall work on listed buildings or within their grounds. In conservation areas, stricter rules may apply.
+* **Alterations and Maintenance:** You typically don't need permission to alter, maintain, or take down an existing structure if its height isn't increased.
+* **Other Restrictions:** Permitted development rights can be removed in certain areas. Structures shouldn't enclose land in a way that changes its use.
+
+**Source:** Perplexity Search (UK planning permission rules for gate, wall, fence, or other)
+
+**It is crucial to consult your local planning authority for accurate and specific advice related to your situation.** This script provides a basic illustration and should not be used for making real-world planning decisions.
+
+## Perplexity output:
+In the UK, planning permission rules for gates, walls, fences, and similar structures are governed by permitted development rights. Here are the key guidelines:
+
+- **Height Restrictions**:
+  - Planning permission is required if the structure exceeds **1 metre in height** when adjacent to a highway used by vehicles or a footpath.
+  - For other locations, the height limit is **2 metres** without planning permission[1][2][3].
+
+- **Listed Buildings and Conservation Areas**:
+  - If your property is a **listed building** or within its curtilage, planning permission is required regardless of height.
+  - In **conservation areas**, additional restrictions may apply, and you may need consent even for taking down existing structures[2][3][5].
+
+- **Alterations and Maintenance**:
+  - You do not need planning permission to alter, maintain, or take down an existing fence, wall, or gate as long as its height is not increased[2][5][6].
+
+- **Other Restrictions**:
+  - Permitted development rights may be removed in certain areas due to **Article Four Directions** or specific planning conditions.
+  - Structures must not enclose land that changes its use (e.g., converting agricultural land to private garden requires permission)[6].
+
+Always consult your local planning authority for specific advice tailored to your property and area.
+
+Citations:
+[1] Fences - Gates - Walls - Permitted Development - TownPlanning.info https://www.townplanning.info/permitted-development/fences-gates-walls/
+[2] Do I need planning permission to construct a fence, wall or gate? https://www.hastings.gov.uk/planning/need/fencewallgate/
+[3] Walls and fences - Chelmsford City Council https://www.chelmsford.gov.uk/planning-and-building-control/planning-advice-and-permissions/check-if-you-need-planning-permission/walls-and-fences/
+[4] Do driveway gates need planning permission? https://charltonsgates.com/do-driveway-gates-need-planning-permission/
+[5] Do I need Planning Permission for Fences, Gates and Garden Walls? https://www.drawingandplanning.com/do-i-need-planning-permission/i-need-planning-permission-fences-gates-gardens/
+[6] Gates, fences, walls and other means of enclosure - Planning Aid https://www.planningaid.co.uk/hc/en-us/articles/203210521-Gates-fences-walls-and-other-means-of-enclosure
+[7] Planning Permission - Fences, gates and garden walls https://www.planningportal.co.uk/permission/common-projects/fences-gates-and-garden-walls/planning-permission/
+[8] The Town and Country Planning (General Permitted Development ... https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/2/crossheading/class-a-gates-fences-walls-etc
